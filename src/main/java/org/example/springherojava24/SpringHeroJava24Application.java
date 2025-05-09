@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringHeroJava24Application {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringHeroJava24Application.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringHeroJava24Application.class, args);
+    }
 
 }
