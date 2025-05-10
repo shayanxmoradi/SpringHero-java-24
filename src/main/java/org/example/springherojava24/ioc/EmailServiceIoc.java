@@ -1,7 +1,6 @@
 package org.example.springherojava24.ioc;
 
-import org.example.springherojava24.MessageService;
-import org.springframework.stereotype.Component;
+import org.example.springherojava24.nonioc.MessageService;
 import org.springframework.stereotype.Service;
 
 @Service("emailServiceBean")

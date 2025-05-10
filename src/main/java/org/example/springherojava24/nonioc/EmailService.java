@@ -1,4 +1,4 @@
-package org.example.springherojava24;
+package org.example.springherojava24.nonioc;
 
 public class EmailService implements MessageService {
     @Override

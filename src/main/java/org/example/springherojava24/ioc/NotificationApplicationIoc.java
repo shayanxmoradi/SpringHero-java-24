@@ -1,7 +1,7 @@
 package org.example.springherojava24.ioc;
 
-import org.example.springherojava24.EmailService;
-import org.example.springherojava24.MessageService;
+import org.example.springherojava24.nonioc.EmailService;
+import org.example.springherojava24.nonioc.MessageService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
